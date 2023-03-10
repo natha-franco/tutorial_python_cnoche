@@ -65,3 +65,4 @@ print(edad1 < edad2) #Menor que
 print(edad1 >= edad2) #Mayor o igual que
 print(edad1 <= edad2) #Menor o igual que
 print(edad1 != edad2) #No igual
+
